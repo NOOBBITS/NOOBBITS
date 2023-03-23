@@ -6,7 +6,7 @@
 💻 &nbsp;I'm currently working on improving my DSA, development(web/app) skills, ML.\
 🎓&nbsp;I'm currently enrolled B.E. Computer Science(2nd year) in BITS Pilani, Hyderabad.\
 🌱 &nbsp;I'm on track for learning more about ML, quant and want to integrate these tech advancements to solve daily life problems.\
-✍️ &nbsp;In my free time, I read about new things(history/geopolitics/finance/philosophy) and listening to music(sufi/rap).\
+✍️ &nbsp;In my free time, I read about new things(maths/history/geopolitics/finance/philosophy) and listening to music(sufi/rap).\
 💬 &nbsp;Feel free to reach out to me for general aspects, or discussions on the aforementioned topics(will love to have it :))!\
 ✉️ &nbsp;You can email me at rishabhmitttal7781@gmail.com or message me via <a href="https://www.linkedin.com/in/rishabh-mittal-66245a229//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume] for more details about work experience.
