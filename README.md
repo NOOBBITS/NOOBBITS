@@ -6,9 +6,9 @@
 💻 &nbsp;I'm currently working on improving my DSA, development(web/app) skills, ML.\
 🎓&nbsp;I'm currently enrolled B.E. Computer Science(2nd year) in BITS Pilani, Hyderabad.\
 🌱 &nbsp;I'm on track for learning more about ML, quant and want to integrate these tech advancements to solve daily life problems.\
-✍️ &nbsp;In my free time, I read about new things).\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics(will love to have it :))!\
-✉️ &nbsp;You can email me at rishabhmitttal7781@gmail.com or message me via LinkedIn. I'll try to respond as soon as possible!\
+✍️ &nbsp;In my free time, I read about new things(history/geopolitics/finance/philosophy) and listening to music(sufi/rap).\
+💬 &nbsp;Feel free to reach out to me for general aspects, or discussions on the aforementioned topics(will love to have it :))!\
+✉️ &nbsp;You can email me at rishabhmitttal7781@gmail.com or message me via LinkedIn(<a href="https://www.linkedin.com/in/rishabh-mittal-66245a229//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> ). I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume] for more details about work experience.
 
 
@@ -21,7 +21,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
