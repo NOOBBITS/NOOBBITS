@@ -3,6 +3,7 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ### 👨🏻‍💻 &nbsp;About Me
+👦 &nbsp;My name is Rishabh Mittal(He/Him).\
 💻 &nbsp;I'm currently working on Data Science, Medical and Finance Project.\
 🎓&nbsp;I'm currently enrolled B.E. Computer Science(3nd year) in BITS Pilani, Hyderabad.\
 🌱 &nbsp;I'm on track for learning more about ML, quant and want to integrate these tech advancements to solve daily life problems.\
