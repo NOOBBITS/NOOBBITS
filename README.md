@@ -3,8 +3,8 @@
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ### 👨🏻‍💻 &nbsp;About Me
-💻 &nbsp;I'm currently working on improving my DSA, development(web/app) skills, ML.\
-🎓&nbsp;I'm currently enrolled B.E. Computer Science(2nd year) in BITS Pilani, Hyderabad.\
+💻 &nbsp;I'm currently working on Data Science, Medical and Finance Project.\
+🎓&nbsp;I'm currently enrolled B.E. Computer Science(3nd year) in BITS Pilani, Hyderabad.\
 🌱 &nbsp;I'm on track for learning more about ML, quant and want to integrate these tech advancements to solve daily life problems.\
 ✍️ &nbsp;In my free time, I read about new things(maths/history/geopolitics/finance/philosophy) and listening to music(sufi/rap).\
 💬 &nbsp;Feel free to reach out to me for general aspects, or discussions on the aforementioned topics(will love to have it :))!\
